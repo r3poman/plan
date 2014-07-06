@@ -35,5 +35,5 @@ app.get('/.project', routes.markdown);
 
 //initiate the app server
 http.createServer(app).listen(app.get('port'), function(){
-  console.log("erinsparling.com running on port " + app.get('port'));
+  console.log(".plan running on port " + app.get('port'));
 });
