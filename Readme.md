@@ -1,6 +1,6 @@
 #.plan file finger emulation
-###Original by [Erin Sparling](http://erinsparling.com)
-###Modified by Chris Johnson
+##Original by [Erin Sparling](http://erinsparling.com) / Modified by Chris Johnson
+
 
 [.plan files](http://en.wikipedia.org/wiki/Finger_protocol) are one of the oldest
  methods for easily communicating with the public. A precursor to micro-blogging,
