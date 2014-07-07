@@ -17,7 +17,7 @@
 
 * [**The Wall Street Journal**](http//:wsj.com) Part of the MIT campus recruitment efforts.  Ongoing evangelist for working with Universities not only for internship programs but also leveraging our organization's philanthropy to engage in research and development with academia. 
 
-* **Research** Media and Information Theory. See Books section below.   
+* **Research** Media and Information Theory. Thought >> Spoken Language >> Written Language (First External Memory Storage Method). See Books section below.   
 
 * **Research** Investigations with the [Oculus Rift](http://www.oculusvr.com) SDK.  Currenty awaiting my pre-order shippment of the new DK2 headset.
 
@@ -34,7 +34,7 @@
 
 * **Axiomatic Media** Co-founded small, design-focused web agency while at Roosevelt University. *No longer active*.
 
-* **Roosevelt University** ** *Game Design Studio* ** Created mods for the [Quake3Arena](https://github.com/id-Software/Quake-III-Arena) game engine with other students via OpenGL, C++, and Photoshop.
+* **Roosevelt University** ** *Game Design Studio* ** Created mods for the [Quake3Arena](https://github.com/id-Software/Quake-III-Arena) game engine with other students via OpenGL, C++, 3DSMax, and Photoshop.
 
 * **Roosevelt University** ** *Bachelors of Science in Computer Science* ** Graduated 2006 with a double-minor in *Mathematics* and *Electro-Acoustic Composition*.  
 
