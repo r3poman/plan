@@ -7,7 +7,7 @@
 
 ##Current and recent-past works and ruminations.
 
-* [**The Wall Street Journal**](http//:wsj.com) Integrated Team Lead working with editoral, product, ux, design, and technology for the WSJ.com Redesign project currently in-flight.    
+* [**The Wall Street Journal**](http//:wsj.com) Integrated Team Lead working with editoral, product, ux, design, and technology for the WSJ.com Redesign project currently in-flight.  Leveraging Nodejs, MongoDB, NewRelic, Backbonejs, Angularjs,     
 
 * [**The Wall Street Journal**](http//:wsj.com) Head of the Consumer Technology R&D User-Experience Development group, an integrated design, ux, and front-end technology team at [Wall Street Journal](http://wsj.com), working with the Dow Jones R&D, focused on building communications and Amazon Web cloud-based collaboration technology. Researched and prototyped streams-based, breaking-news iOS application, better exposing user-generated content, and offered an alternative to traditional commenting systems.  Promoted the importance of branded-interaction models.  
 
@@ -15,7 +15,9 @@
 
 * [**The Wall Street Journal**](http//:wsj.com) Lead team of Cooper Union interns to explore interaction models using Nodejs, iOS, iBeacons, the [Dow Jones LED walls](https://segd.org/dow-joneswall-street-journal-headquarters-environmental-graphics) in the NYC office to provide an informational *and* gamified experience that provides useful information on [@wsj](https://twitter.com/WSJ) story content as well as engaging the viewer through interaction.
 
-* [**The Wall Street Journal**](http//:wsj.com) Part of the MIT campus recruitment efforts.  Ongoing evangelist for working with            
+* [**The Wall Street Journal**](http//:wsj.com) Part of the MIT campus recruitment efforts.  Ongoing evangelist for working with Universities not only for internship programs but also leveraging our organization's philanthropy to engage in research and development with academia. 
+
+* **Research** Media and Information Theory.   
 
 * **Research** Investigations with the [Oculus Rift](http://www.oculusvr.com) SDK.  Currenty awaiting my pre-order shippment of the new DK2 headset.
 
