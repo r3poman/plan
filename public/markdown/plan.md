@@ -1,70 +1,41 @@
-#Erin Sparling .plan
-**Status**: Currently documenting personal projects
+#Chris Johnson dadarepublic.plan
+**Status**: Documenting input/output history
 
 ##Internet Presence
-* [@everyplace](http://twitter.com/everyplace)
-* [facebook](https://facebook.com/erinsparling)
-* [linkedin](http://linkedin.com/in/erinsparling)
-* [keybase](https://keybase.io/everyplace)
-* [flickr](http://flickr.com/everyplace)
-* [foursquare](http://foursquare.com/everyplace)
+* [@dadarepublic](http://twitter.com/dadarepublic)
+* [flickr](http://flickr.com/whiskeyjar)
 
-##Problems I am currently working on or thinking about
+##Current and recent-past works and ruminations.
 
-* **Newsroom Development** A team of designers and developers
-embedded in the newsroom at the [Wall Street Journal](http://wsj.com),
-specializing in building reusable applications, systems and
-processes for the benefit of the editorial and technology staff.
+* [**The Wall Street Journal**](http//:wsj.com) Integrated Team Lead working with editoral, product, ux, design, and technology for the WSJ.com Redesign project currently in-flight.    
 
-* **Unnamed iBeacon project** An excuse to learn UnityScript and
-experiment with the phonegap estimote plugins.
+* [**The Wall Street Journal**](http//:wsj.com) Head of the Consumer Technology R&D User-Experience Development group, an integrated design, ux, and front-end technology team at [Wall Street Journal](http://wsj.com), working with the Dow Jones R&D, focused on building communications and Amazon Web cloud-based collaboration technology. Researched and prototyped streams-based, breaking-news iOS application, better exposing user-generated content, and offered an alternative to traditional commenting systems.  Promoted the importance of branded-interaction models.  
 
-* **Unnamed card game project** It's like your day job, but a card game.
+* [**The Wall Street Journal**](http//:wsj.com) Lead effort to increase quality of web fonts for WSJ.com by securing a spot for beta-testing Hoefler & Co's new Cloud.typography service.  The ScreenSmart technology proved that font foundries can, with care, engineer their fonts to raster high-quality type for the web.  These tests resulted in my negotiating a self-hosted webfont license with Hoefler & Co. for the Dow Jones/Wall Street Journal web properties. Implemented a centralized webfont serving solution that leverages GitHub, Nodejs, Amazon AWS, and Akamai caching to provide fast and performative delivery of our webfonts to our readers and ensure our organization follows the boundries of the license agreement.
 
-* **Unnamed long-term website for planting trees** A tree growing website.
-Visit the site, plant a tree. It grows in real time.
+* [**The Wall Street Journal**](http//:wsj.com) Lead team of Cooper Union interns to explore interaction models using Nodejs, iOS, iBeacons, the [Dow Jones LED walls](https://segd.org/dow-joneswall-street-journal-headquarters-environmental-graphics) in the NYC office to provide an informational *and* gamified experience that provides useful information on [@wsj](https://twitter.com/WSJ) story content as well as engaging the viewer through interaction.
 
-* **Geekdesk / iBeacon hack** When approaching an adjustable-height desk,
-desk should adjust to your current level of activity automatically.
+* [**The Wall Street Journal**](http//:wsj.com) Part of the MIT campus recruitment efforts.  Ongoing evangelist for working with            
 
-* **Find a 3MB RAM chip** Need to upgrade my Ono-sendai deck.
+* **Research** Investigations with the [Oculus Rift](http://www.oculusvr.com) SDK.  Currenty awaiting my pre-order shippment of the new DK2 headset.
+
+* **Research** Using [Audiobus](https://itunes.apple.com/us/app/audiobus/id558513570?mt=8) for iOS sound design & music production.
+
+* **Research** Touch interaction on gameplay mechanics and how those experiences propogate thoughout the mobile UI realm.    
 
 
-##Projects that I have enjoyed thinking about in the past, in alphabetical order
+##Past projects and education input/output
 
-* [**.project**](/.project) Current project in flight.
+* [**The Wall Street Journal**](http//:wsj.com) Lead Design Technologist on a delectable smorgasbord of projects and properties including an internal design asset management tool, a Facebook news application, [WSJ.com](http://wsj.com), [Barrons.com](http://barrons.com), and [MarketWatch.com](http://marketwatch.com). 
 
-* **Accessible Glass** *idea* Google Glass resource for accessible applications
-and information.
+* [**Crate & Barrel Photo Studio**](http://www.crateandbarrel.com) Set design and production.
 
-* **Death API** *idea* Single sign-on social bequeathing.
+* **Axiomatic Media** Co-founded small, design-focused web agency while at Roosevelt University. *No longer active*.
 
-* **Design API** *planing* Site-agnostic, design-agnostic design influence api.
+* **Roosevelt University** ** *Game Design Studio* ** Created mods for the [Quake3Arena](https://github.com/id-Software/Quake-III-Arena) game engine with other students via OpenGL, C++, and Photoshop.
 
-* **The Emperor and the Great Abyss** *fantasy* Children's live action / puppet
-show starring a theoretical physicist with his wacky sidekick, a black hole
-named 'The Great Abyss', as played by a sock puppet.
+* **Roosevelt University** ** *Bachelors of Science in Computer Science* ** Graduated 2006 with a double-minor in *Mathematics* and *Electro-Acoustic Composition*.  
 
-* **Flickr HD** *canned* A browser extension that turned Flickr into a high-res
-site. Made irrelevant after the 2013 site upgrades.
+* **Chicago Trax Recording Studio** *Engineer* Engineering, sound design, and production for various Grammy Nominated artists, television & radio commercials.
 
-* **Flickr 4K** *never started* Like flickrhd.com, but even higher resolution.
-
-* **FourFare** *idea* FourSquare-based ride-sharing app.
-
-* **Friend Factor Authentication** *idea* Social 3-factor authentication twilio
-hack.
-
-* **Scarcity Framework** *idea* Media-sharing widget framework that degrades
-the quality of an item shared as more generations are created.
-
-* **Space-time Coordinate** *fantasy* Application-agnostic geolocation /
-timestamp logger.
-
-* **Should it be made?** *idea* It's like commandshift3.com, but for your own
-ideas.
-
-* **WHOIS over SMS** *canned* Twilio-based whois lookup utility.
-
-* **Star Trek Ipsum** *idea* Make it so, Number One. The Borg will never get a
-deal from Quark.
+* **Hotel Kafka** Co-runner. 5000 sq.ft. two-floor artspace in Chicago.  Host to presentations and productions including dance pieces, performance art, punk rock, electronic music, film and animation productions, film festivals, and mixed-media gallery showings.  
