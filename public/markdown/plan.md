@@ -28,6 +28,8 @@
 
 ##Past projects and education input/output
 
+* [**The Wall Street Journal**](http//:wsj.com) Led the initiative put the The Wall Street Journal's video reporting product - [WSJLive](http://live.wsj.com/) - on the [Xbox 360 as a Kinect-enabled application](http://www.xbox.com/en-US/live/apps/xbox-360), providing a living-room viewing experinece that leverages the power of gesture, and more importantly, voice control for our viewers.  Represented The Wall Street Journal for the Xbox Lakeview Summit at Microsoft's Redmond campus in Washington.   
+
 * [**The Wall Street Journal**](http//:wsj.com) Lead Design Technologist on an internal design asset management application built with [Ruby on Rails](http://rubyonrails.org/) and MySQL.
 
 * [**The Wall Street Journal**](http//:wsj.com) Senior Design Technologist on on a delectable smorgasbord of WSJ Digital Network properties including, a Facebook WSJ news application, [Barrons.com](http://barrons.com), [MarketWatch.com](http://marketwatch.com), and last but not least, [WSJ.com](http://wsj.com) for the original 2007-2008 Renovation project.
