@@ -20,7 +20,7 @@ app.configure(function(){
   app.use(express.methodOverride());
   app.use(app.router);
   app.use(express.static(path.join(__dirname, '../public')));
-  app.use(function(req, res) { res.status(404); res.render('index', { title: '404' }); });
+  app.use(function(req, res) { res.status(404); res.render('index', { title: '404:dada republic', error:'<p><strong>File not found.</strong></p><br/><p>Try accessing the <a href="http://dadarepublic.com">dadarepublic.plan</a> file instead.</p>'  }); });
 });
 
 //configure routes
